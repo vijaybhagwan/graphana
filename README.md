@@ -1,0 +1,2 @@
+# graphana
+Graphana installation
